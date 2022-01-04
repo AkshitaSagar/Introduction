@@ -1,0 +1,13 @@
+#align{
+    text-align: center;
+    padding-top: 130px;
+    color: black
+}
+#padding{
+    padding-left: 300px;
+    color: black;
+    
+}
+body{
+    background-color: lightblue;
+}
